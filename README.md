@@ -40,6 +40,9 @@ lib/
     ├── hourly_forecast_list.dart     # 📊 Danh sách dự báo giờ
     └── loading_shimmer.dart          # ⏳ Widget hiển thị trạng thái loading
 ```
+##Ảnh Minh hoạ app thời tiết 
+1
+<img width="1919" height="1015" alt="Screenshot 2026-04-29 104024" src="https://github.com/user-attachments/assets/77a33bd1-955b-4051-9ebc-0c8c430882d8" />
 
 ---
 
