@@ -40,9 +40,22 @@ lib/
     ├── hourly_forecast_list.dart     # 📊 Danh sách dự báo giờ
     └── loading_shimmer.dart          # ⏳ Widget hiển thị trạng thái loading
 ```
-##Ảnh Minh hoạ app thời tiết 
+## Ảnh Minh hoạ app thời tiết 
 1
 <img width="1919" height="1015" alt="Screenshot 2026-04-29 104024" src="https://github.com/user-attachments/assets/77a33bd1-955b-4051-9ebc-0c8c430882d8" />
+2
+<img width="1910" height="916" alt="Screenshot 2026-04-29 104033" src="https://github.com/user-attachments/assets/3f8cc09d-abdc-481e-8517-a089720ea869" />
+3
+<img width="1905" height="918" alt="Screenshot 2026-04-29 104047" src="https://github.com/user-attachments/assets/9759e3ca-3eda-4e61-b962-a15ef706975b" />
+4
+<img width="1912" height="917" alt="Screenshot 2026-04-29 104056" src="https://github.com/user-attachments/assets/0d1ae708-1e9f-414b-9f1c-f371d35bd5f0" />
+5
+<img width="1908" height="919" alt="Screenshot 2026-04-29 104112" src="https://github.com/user-attachments/assets/d84814ac-f29d-4400-9f46-48a645de822d" />
+# 6 ảnh thực tế trên google chính sác nhất về app đúng nhiệt độ 
+<img width="1908" height="919" alt="Screenshot 2026-04-29 104112" src="https://github.com/user-attachments/assets/5ced13aa-2784-4acc-87b1-eb11e6174373" />
+
+<img width="1906" height="858" alt="Screenshot 2026-04-29 104214" src="https://github.com/user-attachments/assets/8f3c016b-22af-467c-b815-73d78e6f9c99" />
+
 
 ---
 
